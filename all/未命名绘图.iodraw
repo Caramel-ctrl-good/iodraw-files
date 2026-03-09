@@ -274,6 +274,9 @@
         <mxCell id="5KK1uVncdjTpvJejRK-v-30" value="or" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="523" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mrsxrcqvaGbm1lKEArgP-1" value="#帮转&#xa;辅导大二数学分析。&#xa;每次辅导时间、方式可与老师沟通确定，时薪300-400，可商量。&#xa;希望带着刷完题并讲授一定拔高内容。&#xa;联系电话：18910812879" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="380" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
